@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou a Kelen Ferreira  
 
-🚀 **Engenheira de Dados** | 🎓 **Graduanda em Engenharia de Software - UFC**  
+💡 Engenheira de Dados | 📊 Data Science & Machine Learning Enthusiast | 🎓 Graduanda em Engenharia de Software - UFC 
 
-💡 Apaixonada por **dados, automação e inteligência artificial**, com experiência em **processamento de linguagem natural (PLN), análise de dados e pipelines de ETL**.  
+🚀 Apaixonada por **dados, automação e inteligência artificial**, com experiência em **processamento de linguagem natural (PLN), análise de dados e pipelines de ETL**.  
 
 📌 **O que eu faço?**  
-- 🔹 Construo **pipelines de dados** eficientes com **Airflow e SQL**  
-- 🔹 Desenvolvo soluções de **Machine Learning** e **PLN**  
-- 🔹 Trabalho com **banco de dados relacionais e não relacionais**  
-- 🔹 Amo **automatizar processos** e criar soluções **escaláveis**  
+-  Construo **pipelines de dados** eficientes com **Airflow e SQL**  
+-  Desenvolvo soluções de **Machine Learning** e **PLN**  
+-  Trabalho com **banco de dados relacionais e não relacionais**  
+-  Amo **automatizar processos** e criar soluções **escaláveis**  
 
 ## 🚀 Tecnologias & Ferramentas  
 <div style="display: flex; flex-wrap: wrap;">
@@ -25,9 +25,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kekisuk&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekisuk&layout=compact&theme=dracula" />
 </div>
-
-## 📬 Onde me encontrar  
-🔗 [YouTube](https://www.youtube.com/channel/UC0fWxMTSHEUpB5KX6_KST9A)  
-📧 **E-mail:** kekisuk@email.com *(adicione se quiser um contato profissional)*  
-
-💡 *Sinta-se à vontade para explorar meus projetos e contribuir!* 🚀  
