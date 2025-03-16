@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Kelen Ferreira  
 
-<!--
-**kekisuk/kekisuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Engenheira de Dados** | 🎓 **Graduanda em Engenharia de Software - UFC**  
 
-Here are some ideas to get you started:
+💡 Apaixonada por **dados, automação e inteligência artificial**, com experiência em **processamento de linguagem natural (PLN), análise de dados e pipelines de ETL**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **O que eu faço?**  
+- 🔹 Construo **pipelines de dados** eficientes com **Airflow e SQL**  
+- 🔹 Desenvolvo soluções de **Machine Learning** e **PLN**  
+- 🔹 Trabalho com **banco de dados relacionais e não relacionais**  
+- 🔹 Amo **automatizar processos** e criar soluções **escaláveis**  
+
+## 🚀 Tecnologias & Ferramentas  
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FFA500?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+## 📊 Estatísticas do GitHub  
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kekisuk&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekisuk&layout=compact&theme=dracula" />
+</div>
+
+## 📬 Onde me encontrar  
+🔗 [YouTube](https://www.youtube.com/channel/UC0fWxMTSHEUpB5KX6_KST9A)  
+📧 **E-mail:** kekisuk@email.com *(adicione se quiser um contato profissional)*  
+
+💡 *Sinta-se à vontade para explorar meus projetos e contribuir!* 🚀  
