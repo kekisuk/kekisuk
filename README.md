@@ -2,7 +2,7 @@
 
 💡 **Engenheira de Dados** | 📊 **Data Science & Machine Learning Enthusiast** | 🎓 **Graduanda em Engenharia de Software - UFC**  
 
-🚀 Apaixonada por **dados, automação e inteligência artificial**, com experiência em **processamento de linguagem natural (PLN), análise de dados e pipelines de ETL**.  
+🚀 Apaixonada por **dados, automação e inteligência artificial**, com experiência em machine learning, análise de dados e pipelines de ETL**.  
 
 ## 🚀 Tecnologias & Ferramentas  
 <div style="display: flex; flex-wrap: wrap;">
