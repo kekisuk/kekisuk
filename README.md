@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Kelen Ferreira  
 
-💡 **Engenheira de Dados** | 📊 **Machine Learning Enthusiast** | 🎓 **Graduanda em Engenharia de Software - UFC**  
+💡 **Engenheira de Dados** | 📊 **Machine Learning Enthusiast** | 🎓 **Engenheira de Software pela UFC**  
 
 🚀 Apaixonada por **dados, automação e inteligência artificial**, com experiência em **machine learning, análise de dados e pipelines de ETL**. Sempre desenvolvendo, otimizando aplicações e prezando por **boas práticas, organização e código limpo**.  
 
